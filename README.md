@@ -3,8 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=FFD93D&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;Hardware+Engineer+%F0%9F%94%A7;Network+Engineer+%F0%9F%8C%90;React+Developer+%E2%9A%9B%EF%B8%8F;UI%2FUX+Designer+%F0%9F%8E%A8;Power+Apps+Developer+%E2%9A%A1;Database+Explorer+%F0%9F%97%84%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=FFD93D&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;Hardware+Engineer+%F0%9F%94%A7;Network+Engineer+%F0%9F%8C%90;React+Developer+%E2%9A%9B%EF%B8%8F;UI%2FUX+Designer+%F0%9F%8E%A8;Power+Apps+Developer+%E2%9A%A1;Database+Explorer+%F0%9F%97%84%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 <br>
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=SMPKBandara16.SMPKBandara16&left_text=Profile%20Views&left_color=ff6b6b&right_color=4d96ff)
