@@ -8,6 +8,7 @@
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=SMPKBandara16.SMPKBandara16&left_text=Profile%20Views&left_color=ff6b6b&right_color=4d96ff)
 [![GitHub followers](https://img.shields.io/github/followers/SMPKBandara16?label=Followers&style=social)](https://github.com/SMPKBandara16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindu-bandara-845568371)
 [![Gmail](https://img.shields.io/badge/Say_Hi!-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pbkalpathi3912@gmail.com)
 
 </div>
