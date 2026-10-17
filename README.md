@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Pasindu Bandara
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Hardware Engineer;React+Developer;UI%2FUX+Designer;Database+Explorer;Innovation+Enthusiast" alt="Typing SVG" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Hardware+Engineer;React+Developer;UI%2FUX+Designer;Database+Explorer;Innovation+Enthusiast" alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=smpkbandra&color=0e75b6&style=flat)
 
