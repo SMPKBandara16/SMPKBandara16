@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Pasindu Bandara
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Hardware+Engineer;Network+EngineerReact+Developer;UI%2FUX+Designer;Power+App+Developer;Database+Explorer;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Hardware+Engineer;Network+Engineer;React+Developer;UI%2FUX+Designer;Power+App+Developer;Database+Explorer;Problem+Solver" alt="Typing SVG" />
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=SMPKBandara16.SMPKBandara16&left_text=Profile%20Views&right_color=0e75b6)
 
